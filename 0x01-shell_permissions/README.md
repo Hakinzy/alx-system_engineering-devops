@@ -14,3 +14,4 @@ Create a script that creates a directory called my-dir with permissions 751 in t
 Write a script that changes the group owner to school for the file hello
 Write a script that changes the owner to vincent and the group owner to staff
 Write a script that changes the owner and the group owner of hello to vincent and staff respectively
+Write a script that changes the owner of the file hello to betty only if it isowned by the user guillaume
