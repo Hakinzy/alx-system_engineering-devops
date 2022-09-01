@@ -1,18 +1,18 @@
-Create a script that switches the current user to the user betty
-Write a script that prints the effective username of the current user
-Write a script that prints all the groups the current user is part of
-Write a script that changes the owner of the file hello to the user betty
-Write a script that creates an empty file called hello
-Write a script that adds execute permission to the owner of the file hello
-Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
-Write a script that adds execution permission to the owner,the group owner and the other users to the file hello
-Write a script that sets the permission to the file hello as follows
-Write a script that sets the mode of the file hello to this
-Write a script that sets the mode of the file hello the same as olleh's mode
-Write a script that adds execute permission to all subdirectories
-Create a script that creates a directory called my-dir with permissions 751 in the working directory
-Write a script that changes the group owner to school for the file hello
-Write a script that changes the owner to vincent and the group owner to staff
-Write a script that changes the owner and the group owner of hello to vincent and staff respectively
-Write a script that changes the owner of the file hello to betty only if it isowned by the user guillaume
-Write a script that will play the starwars IV episode in the terminal
+(0) Create a script that switches the current user to the user betty
+(1) Write a script that prints the effective username of the current user
+(2) Write a script that prints all the groups the current user is part of
+(3) Write a script that changes the owner of the file hello to the user betty
+(4) Write a script that creates an empty file called hello
+(5) Write a script that adds execute permission to the owner of the file hello
+(6) Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
+(7) Write a script that adds execution permission to the owner,the group owner and the other users to the file hello
+(8) Write a script that sets the permission to the file hello as follows
+(9) Write a script that sets the mode of the file hello to this
+(10) Write a script that sets the mode of the file hello the same as olleh's mode
+(11) Write a script that adds execute permission to all subdirectories
+(12) Create a script that creates a directory called my-dir with permissions 751 in the working directory
+(13) Write a script that changes the group owner to school for the file hello
+(14) Write a script that changes the owner to vincent and the group owner to staff
+(15) Write a script that changes the owner and the group owner of hello to vincent and staff respectively
+(16) Write a script that changes the owner of the file hello to betty only if it  is owned by the user guillaume
+(17) Write a script that will play the starwars IV episode in the terminal
