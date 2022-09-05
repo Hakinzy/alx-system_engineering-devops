@@ -9,4 +9,6 @@
 (8) A script that writes into the file ls_cwd_content the result of the command ls -la
 (9) A script that duplicates the last line of the file iacta
 (10) A script that deletes all the regular files with .js extension
-(11) A script that counts the number of directories and sub-directories 
+(11) A script that counts the number of directories and sub-directories
+(12) Create a script that displays the 10 newest files in the current directory
+(13) Create a script that takes a list of words as input and prints only words that appear exactly once  
