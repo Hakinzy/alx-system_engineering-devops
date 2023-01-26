@@ -15,4 +15,4 @@ do
     (( minute++ ))
   done
   (( hour++ ))
-done:wq
+done
