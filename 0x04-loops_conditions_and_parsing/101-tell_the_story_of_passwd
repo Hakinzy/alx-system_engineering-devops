@@ -1,4 +1,5 @@
- a story based on the contents of the `/etc/passwd` file.
+#!/usr/bin/env bash
+# Tells a story based on the contents of the `/etc/passwd` file.
 
 file_name="/etc/passwd"
 i=0
