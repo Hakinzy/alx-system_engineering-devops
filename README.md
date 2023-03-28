@@ -1,18 +1,14 @@
-# 0x0B. SSH
+# 0x0C. Web server
 
-###### Along with this project, you have been attributed an Ubuntu server, living in a datacenter far far away. Like level 2 of the application process, you will connect using ssh. But contrary to level 2, you will not connect using a password but an RSA key. We’ve configured your server with the public key you created in the first task of a previous project shared in your intranet profile.
+##### In this project, some of the tasks will be graded on 2 aspects:
 
-###### You can access your server information in the my servers section of the intranet, each line with contains the IP and username you should use to connect via ssh.
+##### Is your web-01 server configured according to requirements
+##### Does your answer file contain a Bash script that automatically performs commands to configure an Ubuntu machine to fit requirements (meaning without any human intervention)
 
-#### Note: Your server is configured with an Ubuntu 20.04 LTS environment.
-
-## Resources
-#### Read or watch:
-
-What is a (physical) server - text
-What is a (physical) server - video
-SSH essentials
-SSH Config File
-Public Key Authentication for SSH
-How Secure Shell Works
-SSH Crash Course (Long, but highly informative. Watch this if configuring SSH is still confusing. It may be helpful to watch at x1.25 speed or above.)
+## TASKS
+####> 0. Transfer a file to your server
+####> 1. Install nginx web server
+####> 2. Setup a domain name
+####> 3. Redirection
+####> 4. Not found page 404
+####> 5. Install Nginx web server (w/ Puppet)
